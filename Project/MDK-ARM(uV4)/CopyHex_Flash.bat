@@ -1,0 +1,1 @@
+copy Flash\Obj\output.hex ..\..\..\code_boot_app_merge\hex\boot.hex
